@@ -1,9 +1,10 @@
 # Hi there, I'm Ojilon 👋
 
 ### 🧑‍💻 About Me
-I'm a passionate developer building innovative tools and applications across multiple domains. I focus on creating practical solutions that solve real-world problems, from mobile-to-PC connectivity to custom browsers.
+I'm a passionate developer building innovative tools and applications.
 
-Right now, I'm building specialized applications that combine different technologies and platforms. My work spans from CLI tools to system-level applications, always focusing on solving meaningful problems.
+My work ranges from CLI tools to system-level applications, always focusing on solving meaningful problems. This drive came from the experience of meeting issues with
+using sfotware tools arre failing to meet the tools that help me in my daily life the way I needed.
 
 ---
 
