@@ -8,7 +8,7 @@ using sfotware tools or failing to meet the tools that help me in my daily life 
 
 ---
 
-### 🚀 Projects I Am Building
+### 🚀 Projects I Am working on
 * 🔄 **[Wayer](https://github.com/ojilon/Wayer)** - File transfer between PC and Android phone through hotspot connection
 * 📱 **[WayerPC](https://github.com/ojilon/WayerPC)** - Connect your PC to your phone seamlessly
 * 📋 **[Foundain](https://github.com/ojilon/Foundain)** - A command line application
