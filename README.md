@@ -36,5 +36,5 @@ using sfotware tools or failing to meet the tools that help me in my daily life 
 ---
 
 ### 📊 GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojilon&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojilon&layout=compact&theme=dark&hide=CMake)
 
