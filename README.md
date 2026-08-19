@@ -1,20 +1,19 @@
-# Hi there, I'm Ojilong
+# Hi there, I'm Ojilon
 
 ### About Me
 I'm a passionate developer building tools and applications.
 
-My work ranges from CLI tools to system-level applications, always focusing on solving meaningful problems. This drive came from the experience of meeting issues with
-using sfotware tools or failing to meet the tools that help me in my daily life the way I needed.
+My work ranges from CLI tools to system-level applications, always focusing on solving meaningful problems. This drive comes from experiencing limitations in existing software tools and wanting to build tools that better fit how I work.
 
 ---
 
-### Projects I Am working on
-* **[Wayer](https://github.com/ojilon/Wayer)** - File transfer between PC and Android phone through hotspot connection
+### Projects I'm working on
+* **[Wayer](https://github.com/ojilon/Wayer)** - File transfer between PC and Android phone through a hotspot connection
 * **[WayerPC](https://github.com/ojilon/WayerPC)** - Connect your PC to your phone seamlessly
-* **[Foundain](https://github.com/ojilon/Foundain)** - A command line application
-* **[Conductino](https://github.com/ojilon/Conductino)** - A custom study web browser.
-* **[Conductino_Study](https://github.com/ojilon/Conductino-Android.git)** - Custom study oriented Browser for android.
-* **[Android-Scaffold-Studio](https://github.com/ojilon/Android-Scaffold-Studio.git)** - Design android app UI
+* **[Foundain](https://github.com/ojilon/Foundain)** - A command-line application
+* **[Conductino](https://github.com/ojilon/Conductino)** - A custom, study-focused web browser
+* **[Conductino_Study](https://github.com/ojilon/Conductino-Android)** - Custom study-oriented browser for Android
+* **[Android-Scaffold-Studio](https://github.com/ojilon/Android-Scaffold-Studio)** - Android app UI design scaffolding
 
 ---
 
@@ -24,8 +23,8 @@ using sfotware tools or failing to meet the tools that help me in my daily life 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" alt="Zig" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/C3-2E7D32?style=flat&logo=c&logoColor=white" alt="C3" />
 </p>
 
 ### Tools & Build Systems
@@ -38,5 +37,24 @@ using sfotware tools or failing to meet the tools that help me in my daily life 
 ---
 
 ### GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojilon&layout=compact&theme=dark)
 
+<!-- GitHub Readme Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ojilon&show_icons=true&theme=dark&count_private=true" alt="Ojilon's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojilon&layout=compact&theme=dark" alt="Top languages" />
+</p>
+
+<!-- Contribution / Activity Graph -->
+<p align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ojilon&theme=github" alt="Contribution graph" />
+</p>
+
+<!-- Optional streak stats -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojilon&theme=dark" alt="GitHub streak" />
+</p>
+
+---
+
+### Get in touch
+- GitHub: [https://github.com/ojilon](https://github.com/ojilon)
