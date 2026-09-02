@@ -3,7 +3,7 @@
 ### About Me
 I'm a passionate developer building tools and applications.
 
-My work ranges from CLI tools to system-level applications, always focusing on solving meaningful problems. This drive comes from experiencing limitations in existing software tools and wanting to build tools that better fit how I work.
+My work ranges from CLI tools to system-level applications, always focusing on solving meaningful problems. This drive comes from experiencing limitations in existing software tools and wanting to [...]
 
 ---
 
@@ -23,7 +23,7 @@ My work ranges from CLI tools to system-level applications, always focusing on s
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" alt="Zig" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
 </p>
 
