@@ -3,7 +3,7 @@
 ### About Me
 I'm a passionate developer building tools and applications.
 
-My work ranges from simple CLI tools to system-level applications, always focusing on solving meaningful problems. This drive comes from experiencing limitations in existing software tools and needing[...]
+My work ranges from simple CLI tools to simple applications, always focusing on solving meaningful problems. This drive comes from experiencing limitations in existing software tools in the context of I failing to use software in specific ways I want to. 
 
 ---
 
