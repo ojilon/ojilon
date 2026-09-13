@@ -3,7 +3,7 @@
 ### About Me
 I'm a passionate developer building tools and applications.
 
-My work ranges from simple CLI tools to system-level applications, always focusing on solving meaningful problems. This drive comes from experiencing limitations in existing software tools and needing to build tools that directly fit my way use of computers.
+My work ranges from simple CLI tools to system-level applications, always focusing on solving meaningful problems. This drive comes from experiencing limitations in existing software tools and needing[...]
 
 ---
 
@@ -40,18 +40,18 @@ My work ranges from simple CLI tools to system-level applications, always focusi
 
 <!-- GitHub Readme Stats -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojilon&show_icons=true&theme=dark&count_private=true" alt="Ojilon's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojilon&layout=compact&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ojilon&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Ojilon's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojilon&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <!-- Contribution / Activity Graph -->
 <p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ojilon&theme=github" alt="Contribution graph" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojilon&repo=ojilon&theme=dark&hide_border=true" alt="Profile repository" />
 </p>
 
-<!-- Optional streak stats -->
+<!-- GitHub Streak Stats -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojilon&theme=dark" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ojilon&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
