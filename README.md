@@ -11,7 +11,7 @@ My work ranges from simple CLI tools to simple applications, always focusing on 
 * **[Wayer](https://github.com/ojilon/Wayer)** - File transfer between PC and Android phone through a hotspot connection
 * **[WayerPC](https://github.com/ojilon/WayerPC)** - Connect your PC to your phone seamlessly
 * **[Foundain](https://github.com/ojilon/Foundain)** - A command-line application
-* **[Conductino](https://github.com/ojilon/Conductino)** - A custom, study-focused web browser
+* **[Conductino](https://github.com/ojilon/Conductino_)** - A custom, study-focused web browser
 * **[Conductino_Study](https://github.com/ojilon/Conductino-Android)** - Custom study-oriented browser for Android
 * **[Android-Scaffold-Studio](https://github.com/ojilon/Android-Scaffold-Studio)** - Android app UI design scaffolding
 
