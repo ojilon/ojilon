@@ -3,7 +3,7 @@
 ### About Me
 I'm a passionate developer building tools and applications.
 
-My work ranges from simple CLI tools to simple applications, always focusing on solving meaningful problems. This drive comes from experiencing limitations in existing software tools in the context of I failing to use software in specific ways I want to. 
+My work ranges from simple CLI tools to simple applications, always focusing on solving meaningful problems. This drive comes from experiencing limitations in existing software tools in the context of I failing to use software in specific ways I want to.
 
 ---
 
@@ -22,6 +22,9 @@ My work ranges from simple CLI tools to simple applications, always focusing on 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" alt="Zig" />
+  <img src="https://img.shields.io/badge/Odin-6A5ACD?style=flat&logo=odin&logoColor=white" alt="Odin" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
@@ -30,8 +33,10 @@ My work ranges from simple CLI tools to simple applications, always focusing on 
 ### Tools & Build Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GCC-2F5D7C?style=flat&logo=gnu&logoColor=white" alt="GCC" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Wails-00A9E0?style=flat&logo=go&logoColor=white" alt="Wails" />
 </p>
 
 ---
