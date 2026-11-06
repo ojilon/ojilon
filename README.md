@@ -126,6 +126,15 @@ Mature codebases kept purely for study, reading, and occasional reference (littl
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Wails-00A9E0?style=flat&logo=go&logoColor=white" alt="Wails" />
+    <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="Android SDK" />
+  <img src="https://img.shields.io/badge/Android%20NDK-3DDC84?style=flat&logo=android&logoColor=white" alt="Android NDK" />
+  <img src="https://img.shields.io/badge/Android%20Build%20Tools-3DDC84?style=flat&logo=android&logoColor=white" alt="Android Build Tools" />
+  <img src="https://img.shields.io/badge/NanoUI%20(Zig)-F7A41D?style=flat&logo=zig&logoColor=white" alt="NanoUI (Zig UI library)" />
+  <img src="https://img.shields.io/badge/MyGo%20(Go)-00ADD8?style=flat&logo=go&logoColor=white" alt="MyGo (Go UI library)" />
+  <img src="https://img.shields.io/badge/ZLS- F7A41D?style=flat&logo=zig&logoColor=white" alt="ZLS (Zig Language Server)" />
+  <img src="https://img.shields.io/badge/clangd-262D3A?style=flat&logo=llvm&logoColor=white" alt="clangd (C/C++ language server)" />
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=flat&logo=zedindustries&logoColor=white" alt="Zed editor" />
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white" alt="Sublime Text" />
 </p>
 
 ---
