@@ -39,6 +39,7 @@ Original (unforked) projects I built quickly and passively with AI. They work in
 * **[practice_odin](https://github.com/ojilon/practice_odin)** - Daily challenges to improve with Odin
 * **[Java_ide](https://github.com/ojilon/Java_ide)** - Java IDE experiments
 * **[biostatistics_personal_study_webiste](https://github.com/ojilon/biostatistics_personal_study_webiste)** - Interactive study site for biostatistics
+* **[Ideaboard_android](https://github.com/ojilon/ideaboard_android.git) -Note taking android app**
 
 ---
 
