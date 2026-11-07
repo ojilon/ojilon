@@ -103,6 +103,7 @@ Mature codebases kept purely for study, reading, and occasional reference (littl
 * **[Perspecta](https://github.com/ojilon/Perspecta)** - Sourcetrail
 * **[AndroidChromium-copy](https://github.com/ojilon/AndroidChromium-copy)** - Android Chromium
 * **[clang-copy](https://github.com/ojilon/clang-copy)** - Clang (legacy mirror)
+* **[debugger](https://github.com/ojilon/debugger.git)** -from raddebugger
 
 ---
 
