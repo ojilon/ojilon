@@ -40,6 +40,7 @@ Original (unforked) projects I built quickly and passively with AI. They work in
 * **[Java_ide](https://github.com/ojilon/Java_ide)** - Java IDE experiments
 * **[biostatistics_personal_study_webiste](https://github.com/ojilon/biostatistics_personal_study_webiste)** - Interactive study site for biostatistics
 * **[Ideaboard_android](https://github.com/ojilon/ideaboard_android.git) -Note taking android app**
+* **[Ideaboard](https://github.com/ojilon/ideaboard.git) - Note taking pc app**
 
 ---
 
