@@ -15,6 +15,7 @@ I'm interested in bringing coding and education together (edtech), and in contri
 Currently the only project I’m actively coding deeply (using AI only in controlled, niche places).
 
 * **[perspecta_see](https://github.com/ojilon/perspecta_see)** - Source explorer / code understanding tool (C)
+* **[Android-Scaffold-Studio](https://github.com/ojilon/Android-Scaffold-Studio)** - Android app UI design scaffolding
 
 ---
 
@@ -30,7 +31,6 @@ Original (unforked) projects I built quickly and passively with AI. They work in
 * **[Conductino-Android](https://github.com/ojilon/Conductino-Android)** - Custom study-oriented browser for Android
 * **[Conductino](https://github.com/ojilon/Conductino)** - Earlier custom web browser
 * **[research-workspace](https://github.com/ojilon/research-workspace)** - Lightweight research workspace for reading, summarizing and organizing sources
-* **[Android-Scaffold-Studio](https://github.com/ojilon/Android-Scaffold-Studio)** - Android app UI design scaffolding
 * **[zlanpiko](https://github.com/ojilon/zlanpiko)** - Go project
 * **[Penit](https://github.com/ojilon/Penit)** - Go project
 * **[portfolio_](https://github.com/ojilon/portfolio_)** - Personal portfolio site (Astro)
